@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/recursive-component-exercise/static/css/main.325c54c3.chunk.css",
+    "main.js": "/recursive-component-exercise/static/js/main.c5ac1da1.chunk.js",
+    "main.js.map": "/recursive-component-exercise/static/js/main.c5ac1da1.chunk.js.map",
+    "runtime-main.js": "/recursive-component-exercise/static/js/runtime-main.29ae1cca.js",
+    "runtime-main.js.map": "/recursive-component-exercise/static/js/runtime-main.29ae1cca.js.map",
+    "static/js/2.0c56bc10.chunk.js": "/recursive-component-exercise/static/js/2.0c56bc10.chunk.js",
+    "static/js/2.0c56bc10.chunk.js.map": "/recursive-component-exercise/static/js/2.0c56bc10.chunk.js.map",
+    "static/js/3.e34d6db3.chunk.js": "/recursive-component-exercise/static/js/3.e34d6db3.chunk.js",
+    "static/js/3.e34d6db3.chunk.js.map": "/recursive-component-exercise/static/js/3.e34d6db3.chunk.js.map",
+    "index.html": "/recursive-component-exercise/index.html",
+    "static/css/main.325c54c3.chunk.css.map": "/recursive-component-exercise/static/css/main.325c54c3.chunk.css.map",
+    "static/js/2.0c56bc10.chunk.js.LICENSE.txt": "/recursive-component-exercise/static/js/2.0c56bc10.chunk.js.LICENSE.txt",
+    "static/media/spin.0157e3bf.svg": "/recursive-component-exercise/static/media/spin.0157e3bf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29ae1cca.js",
+    "static/js/2.0c56bc10.chunk.js",
+    "static/css/main.325c54c3.chunk.css",
+    "static/js/main.c5ac1da1.chunk.js"
+  ]
+}
